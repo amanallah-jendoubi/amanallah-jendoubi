@@ -1,32 +1,32 @@
-# Hi, I'm Amen Allah Jendoubi 👋
+## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-2nd year Software Engineering student at **INSAT**, Tunisia — passionate about crafting full-stack applications with clean architecture, from intuitive frontends to scalable backends and well-designed APIs.
+I am Amen Allah Jendoubi, a 3rd year Software Engineering student at [INSAT, Tunisia](https://www.insat.rnu.tn/). I am a full-stack engineer focused on Go + Next.js, and a DevOps enthusiast. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
----
+[![Linkedin Badge](https://img.shields.io/badge/-amen--allah--jendoubi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amen-allah-jendoubi/)](https://www.linkedin.com/in/amen-allah-jendoubi/)
+[![Gmail Badge](https://img.shields.io/badge/-amanallah.jendoubi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanallah.jendoubi@gmail.com)](mailto:amanallah.jendoubi@gmail.com)
 
-## 🛠 Tech stack
+## ⚡ Technologies
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Gin](https://img.shields.io/badge/-Gin-black?style=flat-square&logo=gin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=amanallah-jendoubi&count_private=true&show_icons=true&include_all_commits=true)
 
-**Backend & frameworks**  
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-
-
-## 🤝 Connect with me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanallah.jendoubi@gmail.com)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amanallah-jendoubi.amanallah-jendoubi)
