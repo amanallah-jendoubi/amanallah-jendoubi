@@ -27,6 +27,3 @@ I am Amen Allah Jendoubi, a 3rd year Software Engineering student at [INSAT, Tun
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=amanallah-jendoubi&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amanallah-jendoubi.amanallah-jendoubi)
